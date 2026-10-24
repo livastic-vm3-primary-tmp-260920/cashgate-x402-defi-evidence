@@ -1,11 +1,2 @@
-const rawAppName = "agent-native-cashgate-x402-20261024";
-const rawAppTitle = "Agent Native Cashgate X402 20261024";
-
-const APP_NAME_PLACEHOLDER = "{" + "{APP_NAME}}";
-const APP_TITLE_PLACEHOLDER = "{" + "{APP_TITLE}}";
-
-export const APP_NAME =
-  rawAppName === APP_NAME_PLACEHOLDER ? "chat" : rawAppName;
-
-export const APP_TITLE =
-  rawAppTitle === APP_TITLE_PLACEHOLDER ? "Chat" : rawAppTitle;
+export const APP_NAME = "cashgate";
+export const APP_TITLE = "CashGate — Verify Before You Pay";

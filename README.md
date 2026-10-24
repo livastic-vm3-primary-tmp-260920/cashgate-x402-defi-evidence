@@ -4,6 +4,15 @@
 
 Built after 19 October 2026, with AI assistance, by one real beneficial owner. Candidate for the [2026 Builder.io Agent-Native Hackathon](https://www.builder.io/hackathon); **not yet entered, awarded, or deployed publicly**. Entrant eligibility and the public Clips demonstration must be verified before any official submission. Builder.io's [rules](https://www.builder.io/hackathon/rules) require an actual eligible human participant and truthful project provenance.
 
+
+## Genuine live recorded demonstration (24 October 2026)
+
+- **Public official Clips recording, anonymously playable (66.32s):** https://clips.agent-native.com/r/aIEjP8iNJ6VC
+- **Public original GitHub Pages exhibit with provenance, immutable video hash, real read-only merchant price quotes and source:** https://livastic-vm3-primary-tmp-260920.github.io/cashgate-demo/
+- Actual locally running Agent-Native React UI recorded using an isolated real Chrome browser with two successful **unpaid** x402 HTTP 402 checks (Aave and TapeOut diff), then independently verified one **historical** Base Circle USDC 0.010000 transfer at its original transaction hash/log index 90. Zero wallet connections, gas, signatures or funds spent. This demo **did not generate revenue**.
+- Unit tests 8/8 and typecheck passed during the verified screen capture. This source is public, but the full Agent-Native app uses a local VM3 dev server and **has not been deployed as a public authenticated production app**. Only the presentation/recording and pre-existing original VM5 merchant API routes are public.
+- Built during the official Builder.io Agent-Native Hackathon Oct 19–Nov 2, 2026. The video is now a real public Clips demonstration; the **official entry remains unsubmitted** until the actual beneficial human entrant attests age, identity/jurisdiction and agrees to the rules. Awards are conditional and not counted as income.
+
 ## Original functionality
 
 CashGate offers two **shared Agent-Native `defineAction` tools** and an evidence-first React UI:
